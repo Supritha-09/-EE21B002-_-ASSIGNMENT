@@ -6,9 +6,9 @@ This repository brings together a diverse set of software engineering projects d
 
 ---
 
-## 🚀 Featured Projects
+##Featured Projects
 
-### 🔷 N-Queens Problem Solver
+###  N-Queens Problem Solver
 Solves the classical N-Queens puzzle using an optimized backtracking strategy that includes diagonal conflict tracking.
 
 - **Language**: C++
@@ -19,7 +19,7 @@ Solves the classical N-Queens puzzle using an optimized backtracking strategy th
 
 ---
 
-### 🔷 Module Dependency Cycle Detector
+### Module Dependency Cycle Detector
 Detects cyclic dependencies in module graphs using DFS with state-tracking.
 
 - **Language**: C++
@@ -30,7 +30,7 @@ Detects cyclic dependencies in module graphs using DFS with state-tracking.
 
 ---
 
-### 🔷 GPU-Based Fireworks Simulator
+###   GPU-Based Fireworks Simulator
 Simulates fireworks using real-time rendering powered by OpenGL ES 3.0 and custom shaders.
 
 - **Language**: C++
@@ -41,7 +41,7 @@ Simulates fireworks using real-time rendering powered by OpenGL ES 3.0 and custo
 
 ---
 
-### 🔷 WeatherTrack Android App
+###  WeatherTrack Android App
 An Android app that shows weather trends using MVVM architecture, Room database, and background updates via WorkManager.
 
 - **Language**: Kotlin
@@ -53,7 +53,7 @@ An Android app that shows weather trends using MVVM architecture, Room database,
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **Languages**: C++, Kotlin, GLSL
 - **Libraries/Frameworks**: OpenGL, Android Jetpack, Room, WorkManager
@@ -61,9 +61,9 @@ An Android app that shows weather trends using MVVM architecture, Room database,
 
 ---
 
-## ⚙️ Setup & Installation
+##  Setup & Installation
 
-### 📦 Prerequisites
+### Prerequisites
 
 ```bash
 # For C++ Projects
